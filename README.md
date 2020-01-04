@@ -3,6 +3,7 @@
 ## LIST :
 
 1. GET contacts/ (Mendapatkan seluruh data contact)
+2. GET contacts/find/:id (Mencari data contact berdasarkan id)
 2. POST contacts/add (Menambah data contact)
 3. POST contacts/edit/:id (Mengubah data contact berdasarkan id)
 4. GET contacts/delete/:id (Menghapus data contact berdasarkan id)
